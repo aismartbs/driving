@@ -11,3 +11,5 @@ elif country == 'USA':
 		print('you can get a licence')
 	else:
 		print('you cannot get a licence')
+else:
+	print('you can only type taiwan /USA')
